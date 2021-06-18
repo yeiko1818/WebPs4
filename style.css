@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+header{
+    display: relative;
+    height: 50px;
+    background-color: #669ddc;
+}
+
+.header1{
+    width: 33%;
+    display: inline-block;
+}
+
+.header2{
+    text-align: center;
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    color: #f4ea0f;
+    margin-top: 10px;
+}
+
+.header3{
+    text-align: right;
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+} 
+
+.logo1{
+    width: 150px;
+    margin: 10px;
+}
+
+.icons1{
+    width: 190px;
+}
+.part1{
+    display: inline-block;
+    width: 20%;
+    background-color: #669ddc;
+    padding-top: 50px;
+    box-shadow: inset 0px 0px 15px  #000;
+    height: 686px;
+}
+
+.sub-part img{
+    margin: 10px;
+    width: 230px;
+    border-radius: 20px;
+}
+.part2{
+    display: inline-block;
+    vertical-align: top;
+}
+.img2021{
+    border: 5px solid #f4ea0f;
+}
+
+.sub-part2{
+    display: inline-block;
+    margin: 10px;
+    background-color: purple;
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
+}
+.a{
+    margin-top: 10px;
+    text-align: center;
+}
+footer{
+    background-color: #669ddc;
+    height: 53px;
+    text-align: right;
+}
+.footer-1{
+display: inline-block;
+margin-top: 5px;
+}
+.footer-1 img{
+    width: 400px;
+}
+.footer-2{
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
